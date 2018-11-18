@@ -16,27 +16,10 @@ namespace Zad1
 
 		private void Save_Click(object sender, EventArgs e)
 		{
-//			SaveFileDialog saveFile1 = new SaveFileDialog();
-//			saveFile1.DefaultExt = "*.rtf";
-//			saveFile1.Filter = "RTF Files|*.rtf";
-
-//			if (saveFile1.ShowDialog() == System.Windows.Forms.DialogResult.OK &&
-//saveFile1.FileName.Length > 0)
-//			{
-//				richTextBox1.SaveFile(saveFile1.FileName);
-//			}
 		}
 
 		private void Read_Click(object sender, EventArgs e)
 		{
-			//OpenFileDialog openFile1 = new OpenFileDialog();
-			//openFile1.DefaultExt = "*.rtf";
-			//openFile1.Filter = "RTF Files|*.rtf";
-			//if (openFile1.ShowDialog() == System.Windows.Forms.DialogResult.OK &&
-			//openFile1.FileName.Length > 0)
-			//{
-			//	richTextBox1.LoadFile(openFile1.FileName);
-			//}
 		}
 		private void LoadPlugins()
 		{
